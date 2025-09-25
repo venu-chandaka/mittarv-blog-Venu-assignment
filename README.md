@@ -101,7 +101,7 @@ This project was developed with the help of AI assistance for troubleshooting, c
 
 ## Demo
 
-A demo video/screenshots of the app functionality is available at: [Provide your link here]
+A demo video/screenshots of the app functionality is available at: https://www.linkedin.com/posts/venu-chandaka-147n513_internship-softwareengineering-projectdemo-activity-7376989738760790016-re2m?utm_source=share&utm_medium=member_android&rcm=ACoAAEnV6LcBJE1UjlKUpMs2VtEg1uFpM9DXGZQ
 
 ## Future Enhancements
 
