@@ -1,0 +1,57 @@
+{
+	"info": {
+		"_postman_id": "4bdbe5d1-afc9-4ae1-bd47-83c1093c4df9",
+		"name": "MittArv Blog API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46650097",
+		"_collection_link": "https://venu-5390915.postman.co/workspace/Venu's-Workspace~765a974b-5ae5-4cfa-8f8b-17a67f8ffbbc/collection/46650097-4bdbe5d1-afc9-4ae1-bd47-83c1093c4df9?action=share&source=collection_link&creator=46650097"
+	},
+	"item": [
+		{
+			"name": "Register User",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Venu\",\r\n  \"email\": \"nikki@gmail.com\",\r\n  \"password\": \"123456\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/auth/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"auth",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create a Blog Post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
