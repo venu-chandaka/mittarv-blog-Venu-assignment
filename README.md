@@ -99,6 +99,8 @@ This project was developed with the help of AI assistance for troubleshooting, c
 - Optimize Redux and React components.
 - Prepare submission materials.
 
+📘 Postman Collection: [View Collection](https://venu-5390915.postman.co/workspace/Venu's-Workspace~765a974b-5ae5-4cfa-8f8b-17a67f8ffbbc/collection/46650097-4bdbe5d1-afc9-4ae1-bd47-83c1093c4df9?action=share&creator=46650097)
+
 ## Demo
 
 A demo video/screenshots of the app functionality is available at: https://www.linkedin.com/posts/venu-chandaka-147n513_internship-softwareengineering-projectdemo-activity-7376989738760790016-re2m?utm_source=share&utm_medium=member_android&rcm=ACoAAEnV6LcBJE1UjlKUpMs2VtEg1uFpM9DXGZQ
